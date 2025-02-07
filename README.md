@@ -1,4 +1,4 @@
-[Personal Website](https://personal-networking-hub-h98aogh.gamma.site/)__
+[Personal Website](https://personal-networking-hub-h98aogh.gamma.site/) _ _
 Hey there, I'm @alexissolisruiz,
 My interest lie in information technology, data analysis, and business analytics.
 I'm currently honing my skills in MySQL and data visualization.
